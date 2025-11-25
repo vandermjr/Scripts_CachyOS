@@ -10,9 +10,9 @@ O erro \`mirrolist error 255\` ocorre quando o instalador não consegue se comun
 
 Execute este comando no terminal do ambiente **LiveCD** para aplicar a correção. Ele fará o download do script e o executará com privilégios de administrador:
 
-\`\`\`bash
+```bash
 curl -sSL https://raw.githubusercontent.com/vandermjr/Scripts_CachyOS/main/bugfix-mirrorlist/instalar_cachyos.sh | sudo bash
-\`\`\`
+
 
 Após a execução bem-sucedida, você pode **retomar a instalação** do CachyOS.
 
