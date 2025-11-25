@@ -9,7 +9,6 @@ Clique no link para visualizar a descrição detalhada, o código-fonte e o **co
 | Solução | Descrição | Status |
 | :--- | :--- | :--- |
 | **[Bugfix: Erro Mirrorlist 255](bugfix-mirrorlist/README.md)** | Corrige o erro \`mirrolist error 255\` que impede a instalação via LiveCD. | ✅ Estável |
-| **[Otimização de Cache Pacman](script-otimizacao-cache/README.md)** | *Futuro:* Script para limpar e otimizar o cache do Pacman. | 🚧 Em Desenvolvimento |
 
 ---
 
