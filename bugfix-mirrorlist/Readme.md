@@ -12,12 +12,3 @@ Execute este comando no terminal do ambiente **LiveCD** para aplicar a correçã
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/vandermjr/Scripts_CachyOS/main/bugfix-mirrorlist/instalar_cachyos.sh | sudo bash
-
-
-Após a execução bem-sucedida, você pode **retomar a instalação** do CachyOS.
-
----
-
-### Código Fonte
-
-[Instalar CachyOS Script Source Code](instalar_cachyos.sh)
