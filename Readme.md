@@ -8,7 +8,7 @@ Clique no link para visualizar a descrição detalhada, o código-fonte e o **co
 
 | Solução | Descrição | Status |
 | :--- | :--- | :--- |
-| **[Bugfix: Erro Mirrorlist 255](bugfix-mirrorlist/README.md)** | Corrige o erro \`mirrolist error 255\` que impede a instalação via LiveCD. | ✅ Estável |
+| **[Bugfix: Erro Mirrorlist 255](bugfix-mirrorlist/)** | Corrige o erro \`mirrolist error 255\` que impede a instalação via LiveCD. | ✅ Estável |
 
 ---
 
